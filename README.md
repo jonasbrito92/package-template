@@ -1,4 +1,4 @@
-# image_processing
+# image_processing_jonasbrito92
 
 Description. 
 The package image_processing is used to:
@@ -15,10 +15,10 @@ The package image_processing is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_jonasbrito92
 
 ```bash
-pip install image_processing
+pip install image_processing_jonasbrito92
 ```
 
 
